@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3D Model Fault Prediction Using Machine Learning by the Help of Coordinates
 
 ![Project Banner](static/assets/home.PNG)
@@ -68,3 +69,6 @@ Use LP3_3D_Printer.ipynb for:
 ->Model training/testing
 
 🎥 Demo video link :->                   https://drive.google.com/file/d/1Yu-mxnEBFl_n4m-vTiitvLXg-k_87Gbk/view?usp=sharing
+=======
+# 3D-Model-Fault-Prediction-Using-Machine-Learning-
+>>>>>>> f4b2e78d8c0beccd6534010ac110af3963b491ef
